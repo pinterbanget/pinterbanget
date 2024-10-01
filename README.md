@@ -1,4 +1,15 @@
-## Hi there 👋
+```python
+class PinterBanget:
+    def __init__(self):
+        self.name = "Ryanson Jonathan"
+        self.nickname = "Ryan"
+        self.age = 24
+        self.in_education = True
+        self.language = ["Python", "R", "SQL"]
+
+pb = PinterBanget()
+print(f"Hi! I'm {pb.nickname}. I'm {pb.age} years old, and this is {pb.language[0]} syntax.")
+```
 
 <!--
 **pinterbanget/pinterbanget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
