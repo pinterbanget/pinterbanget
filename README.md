@@ -3,7 +3,7 @@ class PinterBanget:
     def __init__(self):
         self.name = "Ryanson Jonathan"
         self.nickname = "Ryan"
-        self.age = 24
+        self.age = 25
         self.in_education = True
         self.language = ["Python", "R", "SQL"]
 
