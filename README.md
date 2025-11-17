@@ -4,7 +4,8 @@ class PinterBanget:
         self.name = "Ryanson Jonathan"
         self.nickname = "Ryan"
         self.age = 25
-        self.in_education = True
+        self.in_education = False
+        self.is_employed = True
         self.language = ["Python", "R", "SQL"]
 
 pb = PinterBanget()
